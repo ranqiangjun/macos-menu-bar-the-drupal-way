@@ -1,11 +1,12 @@
-# macOS menu bar -- The drupal way
+# macOS menu bar -- The Drupal way
+
+![](https://raw.githubusercontent.com/jungleran/macos-menu-bar-the-drupal-way/master/macos-menu-bar-the-drupal-way.gif)
 
 Two examples of utilizing Bitbar to watching changes on Drupal.org
 
 ### Two tools
 
 - [Dozer](https://github.com/Mortennn/Dozer) -- Hide status bar icons on macOS
-  ![](https://github.com/Mortennn/Dozer/raw/master/Stuff/demo.gif)
 
 - [Bitbar](https://github.com/matryer/bitbar) -- Put anything in your Mac OS X menu bar
 
